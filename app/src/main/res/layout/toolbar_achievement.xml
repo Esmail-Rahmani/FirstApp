@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary"
+
+    android:elevation="4dp"
+    android:rotationX="-4">
+
+            <Switch
+                android:id="@+id/switch_action_bar_achievement"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              android:layout_marginLeft="280dp"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+
+    <ImageButton
+        android:id="@+id/image_button_preview_achievement"
+        android:layout_width="65dp"
+        android:layout_height="56dp"
+        android:background="@color/colorPrimary"
+        android:src="@drawable/ic_preview_foreground"/>
+
+
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CV Maker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sure_text">Are you sure?</string>
+    <string name="yes_text">yes</string>
+    <string name="no_text">no</string>
+    <string name="achievement">Achievement</string>
+    <string name="hint_title">title</string>
+    <string name="hint_description">Descirption</string>
+    <string name="hint_date">Date of Achievement</string>
+    <string name="save_button">Save</string>
+    <string name="update_text1">Update</string>
+    <string name="education">Education</string>
+    <string name="hint_start_date">Start date</string>
+    <string name="hint_end_date">End date</string>
+    <string name="hint_institute_name">Institute Name</string>
+    <string name="experience">Experience</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="dateerror">Enter a valid date</string>
+</resources>
